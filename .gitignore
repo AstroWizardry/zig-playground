@@ -1,0 +1,29 @@
+# Zig build artifacts
+zig-out/
+*.o
+*.zig.o
+*.zig
+
+# Zig cache directories
+.zig-cache/
+src/.zig-cache/
+
+# Temporary files
+*.tmp
+*.log
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Zig build artifacts
+zig-out/
+*.o
+*.zig.o
+*.zig

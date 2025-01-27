@@ -17,7 +17,7 @@ brew install zig
 ### Windows
 
 ```sh
-winget install ziglang.zig
+choco install zig
 ```
 
 ### Linux
